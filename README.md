@@ -18,7 +18,7 @@ How many times have you scrolled endlessly through GitHub, opening numerous repo
 5. Open [Github token page](https://github.com/settings/tokens) (Create a GitHub account if you don't have one). 
 6. Click the `Generate new token` button, then click `Generate new token (classic)`
 7. On the next page, enter the following information: 
-    - Note: `Token`
+    - Note: `token` (or any preferred name)
     - Expiration: `no expirations`
     - Select scopes: `repo`
 8. Click the `Generate token` button and then copy the generated token.
