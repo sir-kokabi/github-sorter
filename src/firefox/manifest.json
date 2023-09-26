@@ -1,0 +1,39 @@
+{
+  "manifest_version": 3,
+  "name": "Github Sorter",
+  "short_name": "GithubSorter",
+  "version": "1.0.0",
+  "description": "Sort github repos by stars",
+  "author": "Ayub Kokabi",
+  "homepage_url": "https://github.com/sir-kokabi/github-sorter",
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "icons": {
+    "16": "images/icon-16.png",
+    "24": "images/icon-24.png",
+    "32": "images/icon-32.png",
+    "48": "images/icon-48.png",
+    "128": "images/icon-128.png"
+  },
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": {
+      "16": "images/icon-16.png",
+      "24": "images/icon-24.png",
+      "32": "images/icon-32.png",
+      "48": "images/icon-48.png",
+      "128": "images/icon-128.png"
+    }
+  },
+  "permissions": ["webNavigation", "storage", "scripting", "alarms", "tabs", "activeTab"],
+  "host_permissions": ["https://github.com/*"],
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "sir.kokabi@gmail.com",
+      "strict_min_version": "109.0"
+    }
+  }
+}

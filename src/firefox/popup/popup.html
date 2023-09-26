@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script defer src="popup.js" type="module"></script>
+    <link rel="stylesheet" href="popup.css" />
+    <title>GitHub Sorter</title>
+  </head>
+
+  <body>    
+    <a dir="rtl" id="token-link" href="https://github.com/settings/tokens" target="_blank">GitHub Token</a>
+    <textarea placeholder="Enter your github token here..." type="text" name="token-input" id="token-input"></textarea>
+    <span id="statusMessage"></span>
+
+    <div id="donation">
+      <label id="donation-label">Make a Donation</label>
+      <div>
+        <button id="btc">
+          <img src="../images/btc.svg" alt="bitcoin" />
+        </button>
+        <button id="eth">
+          <img src="../images/eth.svg" alt="ethereum" />
+        </button>
+        <a id="zarinpal" href="https://zarinp.al/kokabi" target="_blank">
+          <img width="70" src="../images/zarinpal.png" alt="zarinpal" />
+        </a>
+        <div id="btc-toast-message" class="toast"></div>
+        <div id="eth-toast-message" class="toast"></div>
+      </div>
+    </div>
+
+  </body>
+</html>
