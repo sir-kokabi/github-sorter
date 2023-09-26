@@ -1,6 +1,6 @@
 # Github Sorter
 
-How many times have you opened numerous new tabs to find top-starred projects on lists like Awesome Lists? Well, **[GitHub Sorter](https://github.com/sir-kokabi/github-sorter)** is here to make your life easier by sorting repos based on stars and displaying those shiny stars right beside each one. 😊🌟
+How many times have you opened countless new tabs to find top-starred projects on lists like Awesome Lists? Well, **[GitHub Sorter](https://github.com/sir-kokabi/github-sorter)** is here to make your life easier by sorting repos based on stars and displaying those shiny stars right beside each one. 😊🌟
 .
 
 <hr>
