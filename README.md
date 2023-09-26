@@ -4,7 +4,13 @@ How many times have you scrolled endlessly through GitHub, opening numerous repo
 
 <hr>
 
-<img src="icons/chrome.svg" alt="chrome" title="chrome"/><img src="icons/edge.svg" alt="edge" title="edge"/><a href="https://addons.mozilla.org/en-US/firefox/addon/github-sorter/" style="width:64px"><img src="icons/firefox.svg" alt="firefox" title="firefox"/></a><a href="https://addons.opera.com/en/extensions/details/github-sorter" style="width:64px"><img src="icons/opera.svg" alt="opera" title="opera"/></a><img src="icons/brave.svg" alt="brave" title="brave"/><img src="icons/vivaldi.svg" alt="vivaldi" title="vivldi"/><img src="icons/maxthon.png" alt="maxthon" title="maxthon"/>
+[![](icons/chrome.svg)](#install-chrome-edge-opera-brave-vivaldi-maxthon)
+[![](icons/edge.svg)](#install-chrome-edge-opera-brave-vivaldi-maxthon)
+[![](icons/firefox.svg)](https://addons.mozilla.org/en-US/firefox/addon/github-sorter)
+[![](icons/opera.svg)](https://addons.opera.com/en/extensions/details/github-sorter)
+[![](icons/brave.svg)](#install-chrome-edge-opera-brave-vivaldi-maxthon)
+[![](icons/vivaldi.svg)](#install-chrome-edge-opera-brave-vivaldi-maxthon)
+[![](icons/maxthon.png)](#install-chrome-edge-opera-brave-vivaldi-maxthon)
 
 ![](github-sorter.gif)
 
