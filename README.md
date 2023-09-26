@@ -4,7 +4,7 @@ How many times have you endlessly scrolled through GitHub, opening lots of repos
 
 <hr>
 
-<img src="icons/chrome.svg" alt="chrome" title="chrome"/><img src="icons/edge.svg" alt="edge" title="edge"/><a href="#" style="width:64px"><img src="icons/firefox.svg" alt="firefox" title="firefox"/></a><a href="#" style="width:64px"><img src="icons/opera.svg" alt="opera" title="opera"/></a><img src="icons/brave.svg" alt="brave" title="brave"/><img src="icons/vivaldi.svg" alt="vivaldi" title="vivldi"/><img src="icons/maxthon.png" alt="maxthon" title="maxthon"/>
+<img src="icons/chrome.svg" alt="chrome" title="chrome"/><img src="icons/edge.svg" alt="edge" title="edge"/><a href="https://addons.mozilla.org/en-US/firefox/addon/github-sorter/" style="width:64px"><img src="icons/firefox.svg" alt="firefox" title="firefox"/></a><a href="https://addons.opera.com/en/extensions/details/github-sorter" style="width:64px"><img src="icons/opera.svg" alt="opera" title="opera"/></a><img src="icons/brave.svg" alt="brave" title="brave"/><img src="icons/vivaldi.svg" alt="vivaldi" title="vivldi"/><img src="icons/maxthon.png" alt="maxthon" title="maxthon"/>
 
 ![](github-sorter.gif)
 
@@ -26,11 +26,9 @@ How many times have you endlessly scrolled through GitHub, opening lots of repos
 10. Click the Github Sorter extension icon in the toolbar and paste the token.
 11. Now, when you visit any GitHub page that contains a list of repositories, all of the repositories will be sorted and show the number of stars.
 
-<!--
-**Note:**:
-Firefox and Opera users can download from store, instead of manual installation:
-[Github Sorter]()
-[Github Sorter]()
--->
+
+**Download from stores (Firefox and opera):**
+- Firefox: https://addons.mozilla.org/en-US/firefox/addon/github-sorter/
+- Opera: https://addons.opera.com/en/extensions/details/github-sorter
 
 
