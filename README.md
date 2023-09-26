@@ -37,4 +37,8 @@ How many times have you opened countless new tabs to find top-starred projects o
 - Firefox: https://addons.mozilla.org/en-US/firefox/addon/github-sorter/
 - Opera: https://addons.opera.com/en/extensions/details/github-sorter
 
-
+## Support
+Please star this repo, and better yet, donate if you find it useful.
+- Bitcoin: **1LUbbaAGKFkaSXgDhD4AAc8i2kipW6Qh2R**
+- Ethereum: **0xaEC3571C6207B05A41Ab35b40a4B6DF04A072450**
+- [پرداخت از داخل ایران](https://zarinp.al/kokabi)
