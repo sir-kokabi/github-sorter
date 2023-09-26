@@ -4,17 +4,7 @@ How many times have you endlessly scrolled through GitHub, opening lots of repos
 
 <hr>
 
-<img src="icons/chrome.svg" alt="chrome" title="chrome"/>
-<img src="icons/edge.svg" alt="edge" title="edge"/>
-<a href="#" style="width:64px">
-    <img src="icons/firefox.svg" alt="firefox" title="firefox"/>
-</a>
-<a href="#" style="width:64px">
-    <img src="icons/opera.svg" alt="opera" title="opera"/>
-</a>
-<img src="icons/brave.svg"alt="brave" title="brave"/>
-<img src="icons/vivaldi.svg"alt="vivaldi" title="vivldi"/>
-<img src="icons/maxthon.png"alt="maxthon" title="maxthon"/>
+<img src="icons/chrome.svg" alt="chrome" title="chrome"/><img src="icons/edge.svg" alt="edge" title="edge"/><a href="#" style="width:64px"><img src="icons/firefox.svg" alt="firefox" title="firefox"/></a><a href="#" style="width:64px"><img src="icons/opera.svg" alt="opera" title="opera"/></a><img src="icons/brave.svg" alt="brave" title="brave"/><img src="icons/vivaldi.svg" alt="vivaldi" title="vivldi"/><img src="icons/maxthon.png" alt="maxthon" title="maxthon"/>
 
 ![](github-sorter.gif)
 
