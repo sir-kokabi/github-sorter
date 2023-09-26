@@ -1,6 +1,6 @@
 # Github Sorter
 
-How many times have you endlessly scrolled through GitHub, opening lots of repos in lists like Awesome Lists to find the most starred repos? Don't do this anymore! GitHub Sorter sorts all GitHub repos in lists by stars, so you can quickly see which repos are the most popular.
+How many times have you scrolled endlessly through GitHub, opening numerous repos in new tabs to find top-starred projects on lists like Awesome Lists? **GitHub Sorter** fixes that by ranking repos by stars, making it easy to spot the most popular ones.
 
 <hr>
 
@@ -21,10 +21,9 @@ How many times have you endlessly scrolled through GitHub, opening lots of repos
     - Note: `Token`
     - Expiration: `no expirations`
     - Select scopes: `repo`
-8. Click the `Generate token` button
-9. Copy the generated token.
-10. Click the Github Sorter extension icon in the toolbar and paste the token.
-11. Now, when you visit any GitHub page that contains a list of repositories, all of the repositories will be sorted and show the number of stars.
+8. Click the `Generate token` button and then copy the generated token.
+9. Click the Github Sorter extension icon in the toolbar and paste the token.
+10. Now, when you visit any GitHub page that contains a list of repositories, all of the repositories will be sorted and show the number of stars.
 
 
 **Download from stores (Firefox and opera):**
