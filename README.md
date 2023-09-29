@@ -13,8 +13,7 @@ How many times have you opened countless new tabs to find top-starred projects o
 [![](icons/vivaldi.svg)](#install-chrome-edge-opera-brave-vivaldi-maxthon)
 [![](icons/maxthon.png)](#install-chrome-edge-opera-brave-vivaldi-maxthon)
 
-![](github-sorter.gif)
-
+![](github-sorter.png)
 
 ## Install (Chrome, Edge, Opera, Brave, Vivaldi, Maxthon)
 
@@ -22,23 +21,25 @@ How many times have you opened countless new tabs to find top-starred projects o
 2. Open the extension page in your browser by typing: `chrome://extensions/`
 3. Enable developer mode by clicking the toggle switch in the top right corner of the page.
 4. Drag and drop the downloaded `github-sorter.zip` onto the extension page.
-5. Open [Github token page](https://github.com/settings/tokens) (Create a GitHub account if you don't have one). 
+5. Open [Github token page](https://github.com/settings/tokens) (Create a GitHub account if you don't have one).
 6. Click the `Generate new token` button, then click `Generate new token (classic)`
-7. On the next page, enter the following information: 
-    - Note: `token` (or any preferred name)
-    - Expiration: `no expirations`
-    - Select scopes: `repo`
+7. On the next page, enter the following information:
+   - Note: `token` (or any preferred name)
+   - Expiration: `no expirations`
+   - Select scopes: `repo`
 8. Click the `Generate token` button and then copy the generated token.
 9. Click the Github Sorter extension icon in the toolbar and paste the token.
 10. Now, when you visit any GitHub page that contains a list of repositories, all of the repositories will be sorted and show the number of stars.
 
-
 **Download from stores (Firefox and opera):**
+
 - Firefox: https://addons.mozilla.org/en-US/firefox/addon/github-sorter/
 - Opera: https://addons.opera.com/en/extensions/details/github-sorter
 
 ## Support
+
 Please star this repo, and better yet, donate if you find it useful.
+
 - Bitcoin: **1LUbbaAGKFkaSXgDhD4AAc8i2kipW6Qh2R**
 - Ethereum: **0xaEC3571C6207B05A41Ab35b40a4B6DF04A072450**
 - [پرداخت از داخل ایران](https://zarinp.al/kokabi)
