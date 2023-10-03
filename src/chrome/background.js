@@ -120,13 +120,9 @@ async function inject(selector, githubToken) {
   }
 
   async function injectStars(link) {
-    let stars;
-    try {
-      stars = await getStars(link.href);
+    const stars = await getStars(link.href);    
+    if (!stars) return;
 
-    } catch (error) {
-      return;
-    }
     const strong = document.createElement("strong");
     strong.id = "github-stars-14151312";
     strong.setAttribute("stars", stars);
@@ -151,21 +147,12 @@ async function inject(selector, githubToken) {
   async function getStars(githubRepoURL) {
     const repoName = githubRepoURL.match(/github\.com\/([^/]+\/[^/]+)/)[1];
 
-    const cache = await chrome.storage.local.get(repoName);
-    const repoStars = cache?.[repoName]?.stars;
-
-    if (repoStars) {
-      return repoStars;
-    }
-
     const response = await fetch(`https://api.github.com/repos/${repoName}`, {
       headers: { Authorization: `Token ${githubToken}` },
     });
 
     const data = await response.json();
     const stars = data.stargazers_count;
-
-    await chrome.storage.local.set({ [repoName]: { stars, time: new Date().getTime() } });
 
     return stars;
   }
@@ -184,23 +171,3 @@ async function inject(selector, githubToken) {
   }
 
 }
-
-chrome.runtime.onInstalled.addListener(async (details) => {
-  await chrome.alarms.create("clear-expired-stars", {
-    periodInMinutes: 60
-  });
-});
-
-chrome.alarms.onAlarm.addListener(async (alarm) => {
-  if (alarm.name === "clear-expired-stars") {
-    const allSavedData = await chrome.storage.local.get();
-    for (let key in allSavedData) {
-      const time = allSavedData[key].time;
-
-      const currentTime = new Date().getTime();
-      if (currentTime - time < 24 * 60 * 60 * 1000) return
-
-      await chrome.storage.local.remove(key);
-    }
-  }
-});

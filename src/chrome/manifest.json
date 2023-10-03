@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Github Sorter",
   "short_name": "GithubSorter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sort github repos by stars",
   "author": "Ayub Kokabi",
   "homepage_url": "https://github.com/sir-kokabi/github-sorter",
@@ -28,6 +28,6 @@
       "128": "images/icon-128.png"
     }
   },
-  "permissions": ["webNavigation", "storage", "scripting", "alarms", "tabs", "activeTab"],
+  "permissions": ["storage", "scripting", "tabs", "activeTab"],
   "host_permissions": ["https://github.com/*"]
 }
