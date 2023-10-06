@@ -11,11 +11,10 @@ How many times have you opened countless new tabs to find top-starred projects o
 [![](icons/opera.svg)](https://addons.opera.com/en/extensions/details/github-sorter)
 [![](icons/brave.svg)](#install-chrome-edge-opera-brave-vivaldi-maxthon)
 [![](icons/vivaldi.svg)](#install-chrome-edge-opera-brave-vivaldi-maxthon)
-[![](icons/maxthon.png)](#install-chrome-edge-opera-brave-vivaldi-maxthon)
 
 ![](github-sorter.png)
 
-## Install (Chrome, Edge, Opera, Brave, Vivaldi, Maxthon)
+## Install (Chrome, Edge, Opera, Brave, Vivaldi)
 
 1. Download the latest [github-sorter.zip](https://github.com/sir-kokabi/github-sorter/releases/latest)
 2. Open the extension page in your browser by typing: `chrome://extensions/`
