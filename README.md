@@ -37,7 +37,7 @@ How many times have you opened countless new tabs to find top-starred projects o
 
 ## Support
 
-Please star this repo, and better yet, donate if you find it useful.
+Please star this repo if you find it useful, and consider donating for additional support.
 
 - Bitcoin: **1LUbbaAGKFkaSXgDhD4AAc8i2kipW6Qh2R**
 - Ethereum: **0xaEC3571C6207B05A41Ab35b40a4B6DF04A072450**
