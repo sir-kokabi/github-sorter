@@ -8,7 +8,7 @@ How many times have you opened countless new tabs to find top-starred projects o
 [![](icons/chrome.svg)](#install-chrome-edge-opera-brave-vivaldi-maxthon)
 [![](icons/edge.svg)](#install-chrome-edge-opera-brave-vivaldi-maxthon)
 [![](icons/firefox.svg)](https://addons.mozilla.org/firefox/addon/github-sorter)
-[![](icons/opera.svg)](https://addons.opera.com/en/extensions/details/github-sorter)
+[![](icons/opera.svg)](https://addons.opera.com/extensions/details/github-sorter)
 [![](icons/brave.svg)](#install-chrome-edge-opera-brave-vivaldi-maxthon)
 [![](icons/vivaldi.svg)](#install-chrome-edge-opera-brave-vivaldi-maxthon)
 
@@ -33,7 +33,7 @@ How many times have you opened countless new tabs to find top-starred projects o
 **Download from stores (Firefox and opera):**
 
 - Firefox: https://addons.mozilla.org/firefox/addon/github-sorter/
-- Opera: https://addons.opera.com/en/extensions/details/github-sorter
+- Opera: https://addons.opera.com/extensions/details/github-sorter
 
 ## Support
 
