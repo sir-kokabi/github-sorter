@@ -42,7 +42,7 @@ function getSelector(url) {
   const selectors = [
     {
       pattern: /https?:\/\/github.com\/[^\/]+\/[^\/]+\/*$/,
-      selector: "#readme",
+      selector: '.markdown-body',
     },
     {
       pattern: /https?:\/\/github.com\/.*\/[Rr][Ee][Aa][Dd][Mm][Ee]\.md$/i,
