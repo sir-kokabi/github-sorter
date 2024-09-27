@@ -38,7 +38,5 @@ How many times have you opened countless new tabs to find top-starred projects o
 ## Support
 
 Please star this repo if you find it helpful, and donate if you'd like more support.
-
-- Bitcoin: **1LUbbaAGKFkaSXgDhD4AAc8i2kipW6Qh2R**
-- Ethereum: **0xaEC3571C6207B05A41Ab35b40a4B6DF04A072450**
+https://reymit.ir/kokabi
 - [پرداخت از داخل ایران](https://zarinp.al/kokabi)
