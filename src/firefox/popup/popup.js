@@ -46,27 +46,6 @@ function copyToClipboard(text) {
     document.body.removeChild(textarea);
 }
 
-btcButton.addEventListener('click', () => {
-    const btcKey = '1LUbbaAGKFkaSXgDhD4AAc8i2kipW6Qh2R';
-    copyToClipboard(btcKey);
-    btcButton.disabled = true;
-    showToast('BTC key copied!', 'btc-toast-message');
-    setTimeout(() => {
-        btcButton.disabled = false;
-    }, 2500);
-});
-
-ethButton.addEventListener('click', () => {
-    const ethKey = '0xaEC3571C6207B05A41Ab35b40a4B6DF04A072450';
-    copyToClipboard(ethKey);
-    ethButton.disabled = true;
-    showToast('ETH key copied!', 'eth-toast-message');
-    setTimeout(() => {
-        ethButton.disabled = false;
-    }, 2500);
-});
-
-
 async function validateToken(token) {
     try {
         const response = await fetch(`https://api.github.com/user`, {

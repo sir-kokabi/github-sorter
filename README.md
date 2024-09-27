@@ -38,5 +38,5 @@ How many times have you opened countless new tabs to find top-starred projects o
 ## Support
 
 Please star this repo if you find it helpful, and donate if you'd like more support.
+
 https://reymit.ir/kokabi
-- [پرداخت از داخل ایران](https://zarinp.al/kokabi)
